@@ -1,0 +1,4 @@
+com\credibanco\dependency\Library\LibraryApplication.class
+com\credibanco\dependency\Library\Dto\UserDTOResponse.class
+com\credibanco\dependency\Library\Http\HttpService.class
+com\credibanco\dependency\Library\Dto\UserDTORequest.class
